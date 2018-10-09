@@ -33,5 +33,7 @@ language: fi
 publisher: Project Gutenberg
 rights: Public domain in the USA.
 rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
 title: Kuinka äkäpussi kesytetään
 url: http://www.gutenberg.org/ebooks/42966
